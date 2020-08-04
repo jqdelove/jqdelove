@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![ross Github Status](https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&title_color=fff&icon_color=003399&text_color=9f9f9f&bg_color=333333)
+![ross Github Status](https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&title_color=fff&icon_color=CCFF66&text_color=9f9f9f&bg_color=000000)
 
 <br />
