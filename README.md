@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on big data
 - 🌱 I’m currently learning flink
-- welcome to my blog https://www.rossontheway.com
+- 😄 Welcome to my blog websit https://www.rossontheway.com
 <!-- - 👯 I’m looking to collaborate on ... --> 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ...
