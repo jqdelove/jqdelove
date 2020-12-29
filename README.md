@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![jqdelove's github stats](https://github-readme-stats.vercel.app/api?username=jqdelove&theme=tokyonight)
+![jqdelove's github stats](https://github-readme-stats.vercel.app/api?username=jqdelove&theme=onedark)
 
 <br />
