@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![ross Github Status](https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&title_color=fff&icon_color=FFFF66&text_color=CCCCCC&bg_color=333366)
+![ross Github Status](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
