@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Java web
-- 🌱 I’m currently learning elasticsearch
+- 🔭 I’m currently working on Big Data
+- 🌱 I’m currently learning Flink
 - ⚡ Welcome to my blog website https://www.rossontheway.com
 <!-- - 👯 I’m looking to collaborate on ... --> 
 <!-- - 🤔 I’m looking for help with ... -->
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 <diV>
   <div align="center">
-    <a href="#"><img alt="jqdelove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200" width="440"/></a>
+    <a href="#"><img alt="jqdelove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200" width="445"/></a>
     <a href="#"><img alt="jqdelove's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqdelove&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200" width="320"/></a>
   <div> 
 </div>
