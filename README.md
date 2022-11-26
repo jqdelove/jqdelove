@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
  
-<div style="background-image: url(https://source.unsplash.com/random/700x240)"></div>
 <diV>
   <div align="center">
     <a href="#"><img alt="jqdelove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200" width="445"/></a>
