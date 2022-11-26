@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
  
- <div style="background-image: url(https://source.unsplash.com/random/800x200)"></div>
 <diV>
   <div align="center">
-    <a href="#"><img alt="jqdelove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="jqdelove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jqdelove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200" width="250"/></a>
     <a href="#"><img alt="jqdelove's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqdelove&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
   <div> 
 </div>
