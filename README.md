@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Big Data
-- 🌱 I’m currently learning Flink
 - ⚡ Welcome to my blog website https://www.rossontheway.com
 <!-- - 👯 I’m looking to collaborate on ... --> 
 <!-- - 🤔 I’m looking for help with ... -->
